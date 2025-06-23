@@ -92,7 +92,7 @@ dotnet test
 ```bash
 dopArchitecton/
 │
-├── dopArchitecton.Monolithic/          # Monolito modular com separação em camadas
+├── dopArchitecton.Monolithic/         # Monolito modular com separação em camadas
 ├── dopArchitecton.Layered/            # Arquitetura clássica em camadas
 ├── dopArchitecton.Hexagonal/          # Ports & Adapters (adaptadores de entrada/saída)
 ├── dopArchitecton.CQRS/               # Separação entre comandos e consultas
@@ -144,4 +144,4 @@ Se tiver dúvidas, sugestões ou quiser colaborar:
 
 ---
 
-> Desenvolvido e mantido por **Danilo O. Pinheiro** • dopme.io • DevsFree
+> Desenvolvido por **Danilo O. Pinheiro** • [DevsFree](https://devsfree.com.br) • [dopme.io](https://dopme.io)
